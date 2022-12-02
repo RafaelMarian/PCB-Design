@@ -1,0 +1,124 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC
+    5Vi
+    GND
+    GND_SIGNAL
+    0
+
+Reporting Net Names
+    N00603
+    N02877
+    N05079
+    N08937
+    VCCA
+    INA2+
+    INA1+
+    INA1-
+    INA2-
+    B
+    N00630
+    A
+    N01454
+    N01635
+    N02771
+    N02257
+    N02802
+    GND
+    DOUT
+    N03924
+    N02937
+    N02907
+    DIN
+    N03975
+    SEL TRESET
+    Alternate Name:  Sel Treset
+    N02578
+    N03471
+    CSC
+    SCLK
+    OCUPAT
+    VCC
+    GND_SIGNAL
+    +VALI
+    Alternate Name:  +Vali
+    5VI
+    Alternate Name:  5Vi
+    0
+    12VI
+    Alternate Name:  12Vi
+
+--------------------------------------------------
+Checking Schematic: conversie
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    CSC
+    VCCA
+    DIN
+    INA1+
+    INA1-
+    INA2+
+    INA2-
+    SCLK
+    DOUT
+    Sel Treset
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    GND_SIGNAL
+    VCCA
+
+Reporting Net Names
+    N06295
+    N07722
+    INA2+
+    INA1-
+    INA1+
+    N06240
+    SCLK
+    GND_SIGNAL
+    INA2-
+    SEL TRESET
+    Alternate Name:  Sel Treset
+    VCCA
+    DIN
+    CSC
+    DOUT

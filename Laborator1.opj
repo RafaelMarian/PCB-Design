@@ -1,0 +1,223 @@
+(ExpressProject "Laborator1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "D:\PF_Orcad\Capture\LIBRARY\AMPLIFIER.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Arithmetic.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\ATOD.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\BusDriverTransceiver.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\CAPSYM.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Connector.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Counter.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Discrete.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\DRAM.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\ElectroMechanical.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\FIFO.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Filter.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\FPGA.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Gate.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Latch.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\LineDriverReceiver.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Mechanical.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MicroController.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MicroProcessor.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Misc.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Misc2.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Misc3.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MiscLinear.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MiscMemory.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MiscPower.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MuxDecoder.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\OPAmp.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\PassiveFilter.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\PLD.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\PROM.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Regulator.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\ShiftRegister.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\SRAM.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Transistor.olb"
+        (Type "Schematic Library"))
+      (File ".\raf1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\laborator1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "D:\STUDENT\TME\2133\VANCA_RAFAEL_MARIAN\LABORATOR1.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File "D:\STUDENT\TME\2133\VANCA_RAFAEL_MARIAN\LABORATOR1.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (BOM_View_Output "TRUE")
+    (CrossRef_Scope "0")
+    (Crossref__Mode "0")
+    (CrossRef_Sorting "1")
+    (CrossRef_Destination_File
+       "D:\STUDENT\TME\2133\VANCA_RAFAEL_MARIAN\LABORATOR1.XRF")
+    (CrossRef_XY "TRUE")
+    (CrossRef_Unused "FALSE")
+    (XRF_View_Output "TRUE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File
+       "C:\Users\chita\OneDrive\Desktop\New folder\Vanca Rafael Marian\Vanca_Rafael_Marian\LABORATOR1.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "LABORATOR1.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0"))
+  (Folder "Outputs"
+    (File ".\laborator1.bom"
+      (Type "Report"))
+    (File ".\laborator1.xrf"
+      (Type "Report"))
+    (File ".\laborator1.drc"
+      (Type "Report"))
+    (File ".\laborator1.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LM78L05A/TO39
+      (FullPartName "LM78L05A/TO39.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (AD7705
+      (FullPartName "AD7705.Normal")
+      (LibraryName "D:\STUDENT\TME\2133\VANCA_RAFAEL_MARIAN\RAF1.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (ATTiny2313
+      (FullPartName "ATTiny2313.Normal")
+      (LibraryName "D:\STUDENT\TME\2131\CURCANUDAVID\DAVID.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("OPTO ISOLATOR-A"
+      (FullPartName "OPTO ISOLATOR-A.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MAX485
+      (FullPartName "MAX485.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 320 912 -8 -31 -1 480 83 676"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 104 1708 104 772")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\FACULTATE\ANUL III\S2\TME\PROIECTTME\VANCA_RAFAEL_MARIAN\LABORATOR1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory "D:\Student\TME\2133\Vanca_Rafael_Marian")
+  (MPSSessionName "chita"))
