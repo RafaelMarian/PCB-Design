@@ -1,18 +1,58 @@
-# PCB-Design
+OrCad Capture CIS and Layout Project: Circuit Design and PCB Layout
 
-For this project, I used OrCad Capture Cis and Layout extension from OrCad.
-We divide the project into two parts, in the first part we create the circuit in Orcad, putting all the
-components together and assigning their real-life parts.
-When we finish this first step we also check if everything is ok by generating a document that contains all
-the errors, if the error is zero we can move forward to generate the document with all the parts that we
-need to build the circuit in real life.
-In the next step, we build the Layout for our components, using a multi-layer Design. That means we have
-the main layer, the top one, where all the components are installed, the thru-hole components and PCB
-components. Also for the thru-hole components, we need another two layers, one for alimentation and
-another one for ground. We use different types of alimentation like 12Vi and 5Vi, and different types of
-grounds, because different components require different types of alimentation. In the last phase, we rout
-all the components, connecting them to alimentation, also we do the electrical testing, signature and the
-project it's done, and we can submit our design to manufacturing.
-Our main components are Attiny2313 Microcontroller, Max485 which is a low-power transceiver for RS-485
-and RS-422 communication, LM78 which is a Three-terminal positive voltage regulator and other
-components that are creating our system.
+This project involves the design and layout creation for an electronic circuit using OrCad Capture CIS and Layout extension. The project is divided into two main phases to create a comprehensive circuit and its corresponding PCB layout.
+Overview
+
+The project focuses on creating a detailed circuit design using OrCad Capture CIS. It involves assembling all the components, assigning real-life parts, and ensuring accuracy through error checks and verification. Following the successful circuit design, the Layout extension is used to create a multi-layer PCB layout.
+Project Phases
+Phase 1: Circuit Design in OrCad Capture CIS
+
+In this phase:
+
+    Assemble and connect all components required for the circuit design.
+    Assign real-life parts to each component.
+    Error checking is performed; a detailed document is generated to verify errors.
+    Validation ensures zero errors before proceeding further.
+    Generate a complete parts document necessary for real-life circuit assembly.
+
+Phase 2: PCB Layout using OrCad Layout Extension
+
+In this phase:
+
+    Implement a multi-layer Design for the PCB layout.
+    The main layer (top) accommodates all installed components, including thru-hole and PCB components.
+    Thru-hole components utilize two separate layers for power supply and ground connections.
+    Different power sources such as 12Vi and 5Vi, along with various ground types, are employed to cater to diverse component requirements.
+    Routing of components is performed, connecting them to their respective power sources.
+    Electrical testing and validation are conducted, including signature verification.
+    Upon successful validation, the design is ready for submission to manufacturing.
+
+Main Components
+
+The circuit primarily comprises the following key components:
+
+    Attiny2313 Microcontroller
+    Max485: Low-power transceiver for RS-485 and RS-422 communication.
+    LM78: Three-terminal positive voltage regulator.
+    Other components contributing to the overall system functionality.
+
+Usage
+
+The OrCad Capture CIS and Layout projects are utilized as follows:
+
+    OrCad Capture CIS:
+        Assemble components, assign real-life parts, and verify the circuit design through error checks.
+        Ensure a zero-error validation process before generating the parts document for real-life circuit assembly.
+
+    OrCad Layout Extension:
+        Create a multi-layer PCB layout accommodating different component types and their power requirements.
+        Perform routing, power connections, electrical testing, and validation.
+
+Contributing
+
+This project is currently not open for direct contributions. However, feedback and suggestions are appreciated.
+License
+
+This project is not licensed. It's shared here as an educational reference.
+
+Feel free to include additional information such as installation guides, project structure, or any specific instructions relevant to using OrCad Capture CIS and Layout. This README serves as a starting point to guide users through the project overview and process.
